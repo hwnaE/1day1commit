@@ -19,3 +19,4 @@ Vaction
 - 22.06.26 / HTML Form and Table
 - 22.06.27 / HTML Form action, name
 - 22.06.28 / CSS Basics
+- 22.06.29 / CSS Color, Text
