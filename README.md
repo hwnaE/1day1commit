@@ -23,3 +23,4 @@ Vaction
 - 22.07.02 / CSS Selector
 - 22.07.03 / Pseudo elements
 - 22.07.04 / Inheritance CSS
+- 22.07.05 / CSS Box Model
