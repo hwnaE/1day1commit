@@ -39,3 +39,4 @@ Vaction
 - 22.07.24 / Python Basic Grammar
 - 22.07.25 / JS Callback Function
 - 22.07.26 / GitHub Study
+- 22.07.27 / Competition
