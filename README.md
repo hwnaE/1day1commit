@@ -40,3 +40,5 @@ Vaction
 - 22.07.25 / JS Callback Function
 - 22.07.26 / GitHub Study
 - 22.07.27 / Competition
+- 22.07.28 / lgorithm
+- 22.07.29 / Competition
